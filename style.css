@@ -33,10 +33,86 @@ h1{
     background-size: 100%;
     
 }
-.text-alignment{
+.text-alignment-for-first-section{
     margin-top: 170px;
     margin-left: 100px;
+    text-align: justify;
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text-alignment-for-second-section{
+    margin-top: 150px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.image-alignment-for-second-section{
+    margin-top: 50px;
+}
+p{
+    color: dimgray;
+}
+.third-section{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.third-section-caption{
+    text-align: center;
+    margin-top: 120px;
+}
+.one-third-width{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    
+}
+.one-third-width img{
+    width: 120%;
+}
+.third-section-image-alignment{
+    margin-left: 110px;
+    
+}
+.fifth-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+#fifth-section-caption{
+    text-align: center;
+    margin-top: 150px;
+}
+#fifth-section-subcaption{
+    margin-top: 100px;
+    text-align: center;
 }
 
+#dummy-text{
+    color: black;
+    text-align: center;
+    
+}
+
+.link-button2{
+    
+    text-decoration: none;
+    color: white;
+    padding: 50px 100px;
+    border-radius: 5px;text-align: justify;
+    background-image: linear-gradient(270deg, rgb(236, 76, 122),rgb(236, 82, 152));
+    border: none;
+    display: inline-block;
+    text-align: center;
+}
+#mail{
+    font-size: large;
+}
 
 
