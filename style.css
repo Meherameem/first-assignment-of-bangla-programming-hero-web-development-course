@@ -114,5 +114,32 @@ p{
 #mail{
     font-size: large;
 }
-
-
+.forth-subsection{
+    padding-top: 50px;
+}
+.one-fourth-width{
+    width: 20%;
+    margin-top: 70px;
+    margin-left: 2%;
+    padding-left: 2%;
+    float: left;
+}
+.box{
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 5px;
+    height:70%
+    
+}
+.heading-of-modules{
+    text-align: center;
+    color:rgb(236, 76, 122);
+}
+.module-para{
+    text-align: center;
+    font-size: 11px;
+    margin-right: 15px;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
